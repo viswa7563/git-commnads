@@ -64,3 +64,9 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
+### stash & Commands
+
+| Command | Description |
+| ------- | ----------- |
+| `git stash` | git stash is used to save the changes in present working directory |
+| `git stash apply` | this command is used to apply the changes which you have saved before with the command git stash |
